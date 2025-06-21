@@ -1,5 +1,5 @@
 {
-  "name": "zone-js",
+  "name": "@zone01/zone-js",
   "version": "1.0.0",
   "description": "ZoneJs mini Light framwork",
   "main": "index.js",
